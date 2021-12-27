@@ -5,10 +5,10 @@
 STIB is a company providing public transport in Brussels.
 
 My team was challenged to analyse data and provide the following insights:
-1. Analyze the vehicle speed over the different network segments, how it varies across segments and over time. Present this in a suitable visual way.
-2. Analyze the vehicle delays at the different stops, how it varies across stops, and over time. Present this in a suitable visual way.
-3. Given a vehicle start time, do arrival time forecasting at a given stop in the route of this vehicle. You should be able to test the accuracy of your forecasting by randomly splitting the given dataset in disjoint training and testing subsets.
-4. The GPS tracks are for real people moving in Brussels. In fact they are from Mahmoud and Jean-Philippe. You are asked to infer the mode of transport of each of these tracks (bus, tram, etc)
+1. Analyze the vehicle speed over the different network segments, how it varies across segments and over time. 
+2. Analyze the vehicle delays at the different stops, how it varies across stops, and over time.
+3. Given a vehicle start time, do arrival time forecasting at a given stop in the route of this vehicle. 
+4. The GPS tracks are for real people moving in Brussels. In fact they are from the teachers. You are asked to infer the mode of transport of each of these tracks (bus, tram, etc)
 5. Think your own of a valuable analysis on this data (we did a web application with Streamlit)
 
 The teachers have collected about 3 weeks of this data for us:
