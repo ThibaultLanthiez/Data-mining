@@ -5,4 +5,4 @@
 
 # Code
 
-Voici le code du projet : [notebook](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Odds_Football_leagues.ipynb)
+Voici le rapport de ce projet : [notebook](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Odds_Football_leagues.ipynb)
